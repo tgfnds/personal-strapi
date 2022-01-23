@@ -26,9 +26,7 @@
       "multiple": true,
       "required": false,
       "allowedTypes": [
-        "images",
-        "files",
-        "videos"
+        "images"
       ]
     },
     "tags": {
@@ -40,6 +38,9 @@
       "type": "uid",
       "targetField": "name",
       "required": true
+    },
+    "url": {
+      "type": "string"
     }
   }
 }
