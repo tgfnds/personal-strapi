@@ -41,6 +41,9 @@
     },
     "url": {
       "type": "string"
+    },
+    "repo": {
+      "type": "string"
     }
   }
 }
